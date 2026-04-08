@@ -95,7 +95,7 @@ Pourquoi s'embêter à tester avant ?
   <ul>
     <li>✅ <strong>Code plus fiable :</strong> Le TDD permet de réduire le nombre de bugs, car chaque fonctionnalité est testée dès le départ.</li>
     <li>⏱️ <strong>Détection rapide :</strong> Les erreurs sont identifiées immédiatement, ce qui facilite leur correction</li>
-    <li>📐 <strong>Meilleure conception :</strong> Force à penser à l'architecture avant de coder.</li>
+    <li>📐 <strong>Meilleure conception :</strong> Le fait d’écrire les tests en premier pousse à mieux réfléchir à la structure du code.</li>
     <li>📖 <strong>Documentation automatique :</strong> Les tests montrent comment le code doit fonctionner.</li>
   </ul>
 </div>
@@ -106,9 +106,9 @@ Pourquoi s'embêter à tester avant ?
 
 Tout n'est pas magique, il y a des contraintes :
 
-- 🧠 **Temps d'apprentissage :** C'est une gymnastique d'esprit différente.
-- 🐢 **Lenteur initiale :** Peut donner l'impression de ralentir le projet au début.
-- 📏 **Rigueur exigée :** Demande beaucoup de discipline de la part du développeur.
+- 🧠 **Temps d'apprentissage :** Le TDD demande du temps pour s’habituer à cette façon de travailler..
+- 🐢 **Lenteur initiale :** u début, on peut avoir l’impression de perdre du temps.
+- 📏 **Rigueur exigée :** Il faut être discipliné et bien suivre les étapes du TDD.
 
 ---
 
@@ -194,18 +194,18 @@ Pour réussir en TDD, il faut suivre ces règles d'or :
 
 Le TDD s'applique partout, voici les outils par langage :
 
-- 🐘 **PHP :** PHPUnit, Pest
-- 🟨 **JavaScript / TypeScript :** Jest, Vitest, Mocha
+- 🐘 **PHP :** PHPUnit, Pest (pour écrire les tests.)
+- 🟨 **JavaScript / TypeScript :** Les outils les plus connus sont Jest, Vitest, Mocha
 - 🐍 **Python :** PyTest, Unittest
-- ☕ **Java :** JUnit
+- ☕ **Java :** L’outil principal est JUnit
 
 ---
 
 ## 🎯 9. Conclusion
 
 - Le TDD n'est pas juste une technique de test, c'est une méthode de conception.
-- Il améliore drastiquement la qualité et la durée de vie du code.
-- Il nécessite de la pratique, mais devient indispensable sur les projets professionnels sérieux.
+- “Il permet d’avoir un code plus propre, plus fiable et plus facile à maintenir.
+- Même si ça demande de la pratique, c’est très utilisé dans les projets professionnels.
 
 <br>
 
